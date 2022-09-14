@@ -1,0 +1,23 @@
+moto-bomba||0|||
+VEÍCULO DE PASSEIO E UTILITÁRIOS||1|1||
+CAMINHÕES||1|2||
+ÔNIBUS||1|3||
+MICROÔNIBUS||1|4||
+MOTOS||1|5||
+MOTONIVELADORA||2|50||
+PÁ CARREGADEIRA||2|51||
+TRATORES AGRÍCOLAS||2|52||
+OUTROS EQUIPAMENTOS||2|99||
+OUTROS TIPOS DE VEÍCULOS E EQUIPAMENTOS||0|999||
+Caminhão Basculante||1|2||
+Caminhão Bombeiros||1|2||
+Ambulância||1|1||
+retro-escavadeira||2|99||
+rolo compressor||2|99||
+Trator de Esteira||2|99||
+rocadeirda de grama||0|999||
+moto-serra||0|999||
+CAMIONETE||1|1||
+ROLO COMPACTADOR||1|||
+ESCAVADEIRA HIDRÁULICA||1|486||
+RETROESCAVADEIRA XCMG||1|||
